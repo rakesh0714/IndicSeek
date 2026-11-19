@@ -1,0 +1,11 @@
+Title: Hostel Documents
+Category: hostel
+
+English:
+Hostel applications may require admission proof, student identification, photographs, and other documents specified by the institution.
+
+Hindi:
+छात्रावास आवेदन में प्रवेश प्रमाण, विद्यार्थी पहचान पत्र, फोटो और संस्थान द्वारा बताए गए अन्य दस्तावेज मांगे जा सकते हैं।
+
+Gujarati:
+હોસ્ટેલ અરજીમાં પ્રવેશનો પુરાવો, વિદ્યાર્થી ઓળખપત્ર, ફોટોગ્રાફ અને સંસ્થા દ્વારા જણાવેલા અન્ય દસ્તાવેજો જરૂરી હોઈ શકે છે.

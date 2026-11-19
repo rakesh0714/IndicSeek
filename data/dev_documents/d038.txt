@@ -1,0 +1,11 @@
+Title: Examination Course Registration
+Category: examination
+
+English:
+Students should ensure that all eligible courses are correctly included in the examination registration form. Missing a course can affect examination participation.
+
+Hindi:
+विद्यार्थियों को सुनिश्चित करना चाहिए कि सभी पात्र विषय परीक्षा पंजीकरण फॉर्म में सही ढंग से शामिल हों। किसी विषय के छूटने से परीक्षा में भाग लेने पर प्रभाव पड़ सकता है।
+
+Gujarati:
+વિદ્યાર્થીઓએ ખાતરી કરવી જોઈએ કે તમામ પાત્ર વિષયો પરીક્ષા નોંધણી ફોર્મમાં યોગ્ય રીતે સામેલ છે. કોઈ વિષય છૂટી જવાથી પરીક્ષામાં ભાગ લેવામાં અસર થઈ શકે છે.

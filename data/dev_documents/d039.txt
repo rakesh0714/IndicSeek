@@ -1,0 +1,11 @@
+Title: Examination Registration Correction
+Category: examination
+
+English:
+If incorrect information is submitted during examination registration, students should contact the appropriate academic office or follow the institution's correction procedure.
+
+Hindi:
+यदि परीक्षा पंजीकरण के दौरान गलत जानकारी जमा हो जाए, तो विद्यार्थियों को संबंधित शैक्षणिक कार्यालय से संपर्क करना चाहिए या संस्थान की सुधार प्रक्रिया का पालन करना चाहिए।
+
+Gujarati:
+પરીક્ષા નોંધણી દરમિયાન ખોટી માહિતી જમા થાય તો વિદ્યાર્થીઓએ સંબંધિત શૈક્ષણિક કચેરીનો સંપર્ક કરવો અથવા સંસ્થાની સુધારણા પ્રક્રિયાનું પાલન કરવું જોઈએ.

@@ -1,0 +1,11 @@
+Title: Examination Admit Card
+Category: examination
+
+English:
+After successful examination registration, students may receive an admit card containing examination details. The admit card should be checked for course, date, and examination center information.
+
+Hindi:
+सफल परीक्षा पंजीकरण के बाद विद्यार्थियों को परीक्षा विवरण वाला प्रवेश पत्र मिल सकता है। प्रवेश पत्र में विषय, तिथि और परीक्षा केंद्र की जानकारी जांचनी चाहिए।
+
+Gujarati:
+સફળ પરીક્ષા નોંધણી પછી વિદ્યાર્થીઓને પરીક્ષાની વિગતો ધરાવતું પ્રવેશપત્ર મળી શકે છે. પ્રવેશપત્રમાં વિષય, તારીખ અને પરીક્ષા કેન્દ્રની માહિતી તપાસવી જોઈએ.

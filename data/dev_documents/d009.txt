@@ -1,0 +1,11 @@
+Title: Scholarship Bank Details
+Category: scholarship
+
+English:
+Applicants may need to provide accurate bank account information to receive scholarship payments. The account should normally belong to the eligible student or approved beneficiary.
+
+Hindi:
+छात्रवृत्ति राशि प्राप्त करने के लिए आवेदकों को सही बैंक खाते की जानकारी देनी पड़ सकती है। खाता सामान्यतः पात्र विद्यार्थी या स्वीकृत लाभार्थी का होना चाहिए।
+
+Gujarati:
+શિષ્યવૃત્તિની રકમ મેળવવા માટે અરજદારે સાચી બેંક ખાતાની માહિતી આપવી પડી શકે છે. ખાતું સામાન્ય રીતે પાત્ર વિદ્યાર્થી અથવા મંજૂર લાભાર્થીનું હોવું જોઈએ.

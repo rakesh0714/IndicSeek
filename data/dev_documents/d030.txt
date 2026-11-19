@@ -1,0 +1,11 @@
+Title: Hostel Allocation
+Category: hostel
+
+English:
+Hostel rooms are allocated according to institutional rules and available capacity. Applicants may receive an allotment notice after the selection process.
+
+Hindi:
+छात्रावास के कमरे संस्थान के नियमों और उपलब्ध क्षमता के अनुसार आवंटित किए जाते हैं। चयन प्रक्रिया के बाद आवेदकों को आवंटन सूचना मिल सकती है।
+
+Gujarati:
+હોસ્ટેલના રૂમ સંસ્થાના નિયમો અને ઉપલબ્ધ ક્ષમતા અનુસાર ફાળવવામાં આવે છે. પસંદગી પ્રક્રિયા પછી અરજદારોને ફાળવણીની સૂચના મળી શકે છે.

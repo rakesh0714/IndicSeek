@@ -1,0 +1,11 @@
+Title: Scholarship Selection
+Category: scholarship
+
+English:
+Scholarship selection can consider academic merit, financial need, social category, and other eligibility conditions. Each scheme may use a different selection procedure.
+
+Hindi:
+छात्रवृत्ति चयन में शैक्षणिक योग्यता, आर्थिक आवश्यकता, सामाजिक श्रेणी और अन्य पात्रता शर्तों पर विचार किया जा सकता है। प्रत्येक योजना की चयन प्रक्रिया अलग हो सकती है।
+
+Gujarati:
+શિષ્યવૃત્તિ પસંદગીમાં શૈક્ષણિક લાયકાત, નાણાકીય જરૂરિયાત, સામાજિક વર્ગ અને અન્ય પાત્રતા શરતો ધ્યાનમાં લેવામાં આવી શકે છે. દરેક યોજનાની પસંદગી પ્રક્રિયા અલગ હોઈ શકે છે.

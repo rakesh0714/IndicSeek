@@ -1,0 +1,11 @@
+Title: Scholarship Application Status
+Category: scholarship
+
+English:
+Applicants can use the scholarship portal to check the status of their application. The status may indicate submission, verification, approval, or a request for additional documents.
+
+Hindi:
+आवेदक छात्रवृत्ति पोर्टल पर अपने आवेदन की स्थिति देख सकते हैं। स्थिति में जमा, सत्यापन, स्वीकृति या अतिरिक्त दस्तावेज की मांग दिखाई जा सकती है।
+
+Gujarati:
+અરજદારો શિષ્યવૃત્તિ પોર્ટલ પર તેમની અરજીની સ્થિતિ જોઈ શકે છે. સ્થિતિમાં સબમિશન, ચકાસણી, મંજૂરી અથવા વધારાના દસ્તાવેજોની માંગ દર્શાવવામાં આવી શકે છે.

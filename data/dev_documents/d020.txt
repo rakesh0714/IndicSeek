@@ -1,0 +1,11 @@
+Title: Government Scheme Documents
+Category: government_scheme
+
+English:
+Government education assistance applications may require identity proof, enrollment records, income certificates, and bank information.
+
+Hindi:
+सरकारी शिक्षा सहायता के आवेदन में पहचान प्रमाण, नामांकन रिकॉर्ड, आय प्रमाण पत्र और बैंक जानकारी की आवश्यकता हो सकती है।
+
+Gujarati:
+સરકારી શિક્ષણ સહાયની અરજીમાં ઓળખનો પુરાવો, પ્રવેશ રેકોર્ડ, આવક પ્રમાણપત્ર અને બેંક માહિતી જરૂરી હોઈ શકે છે.

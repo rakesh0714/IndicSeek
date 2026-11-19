@@ -1,0 +1,11 @@
+Title: Scholarship Application Verification
+Category: scholarship
+
+English:
+Scholarship authorities may verify the information submitted by applicants. Incorrect personal details, academic information, or financial documents can delay the application.
+
+Hindi:
+छात्रवृत्ति अधिकारी आवेदक द्वारा दी गई जानकारी का सत्यापन कर सकते हैं। गलत व्यक्तिगत जानकारी, शैक्षणिक विवरण या वित्तीय दस्तावेज आवेदन में देरी कर सकते हैं।
+
+Gujarati:
+શિષ્યવૃત્તિ સત્તાધિકારીઓ અરજદારે આપેલી માહિતીની ચકાસણી કરી શકે છે. ખોટી વ્યક્તિગત માહિતી, શૈક્ષણિક વિગતો અથવા નાણાકીય દસ્તાવેજો અરજીમાં વિલંબ કરી શકે છે.

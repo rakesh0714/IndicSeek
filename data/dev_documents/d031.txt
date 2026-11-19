@@ -1,0 +1,11 @@
+Title: Hostel Renewal
+Category: hostel
+
+English:
+Students continuing in hostel accommodation may need to complete a renewal process for the next academic term. Updated information and fee payment may be required.
+
+Hindi:
+छात्रावास में रहने वाले विद्यार्थियों को अगले शैक्षणिक सत्र के लिए नवीनीकरण प्रक्रिया पूरी करनी पड़ सकती है। अद्यतन जानकारी और शुल्क भुगतान आवश्यक हो सकता है।
+
+Gujarati:
+હોસ્ટેલમાં રહેતા વિદ્યાર્થીઓએ આગામી શૈક્ષણિક સત્ર માટે નવીકરણ પ્રક્રિયા પૂર્ણ કરવી પડી શકે છે. અપડેટ માહિતી અને ફી ચુકવણી જરૂરી હોઈ શકે છે.

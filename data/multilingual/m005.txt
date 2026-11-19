@@ -1,0 +1,8 @@
+English:
+University examination registration requires enrollment information, examination fees and submission before the registration deadline.
+
+Hindi:
+विश्वविद्यालय परीक्षा पंजीकरण के लिए नामांकन जानकारी, परीक्षा शुल्क और पंजीकरण की समय सीमा से पहले आवेदन जमा करना आवश्यक છે।
+
+Gujarati:
+યુનિવર્સિટી પરીક્ષા નોંધણી માટે નોંધણી માહિતી, પરીક્ષા ફી અને નોંધણીની સમયમર્યાદા પહેલાં અરજી સબમિટ કરવી જરૂરી છે।

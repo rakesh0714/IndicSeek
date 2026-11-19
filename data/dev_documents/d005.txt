@@ -1,0 +1,11 @@
+Title: Government Scholarship Portal
+Category: scholarship
+
+English:
+Students applying for government scholarships should use the designated scholarship portal. Registration normally requires personal information and supporting academic and financial documents.
+
+Hindi:
+सरकारी छात्रवृत्ति के लिए विद्यार्थियों को निर्धारित छात्रवृत्ति पोर्टल का उपयोग करना चाहिए। पंजीकरण में व्यक्तिगत जानकारी तथा शैक्षणिक और वित्तीय दस्तावेज मांगे जा सकते हैं।
+
+Gujarati:
+સરકારી શિષ્યવૃત્તિ માટે વિદ્યાર્થીઓએ નિર્ધારિત શિષ્યવૃત્તિ પોર્ટલનો ઉપયોગ કરવો જોઈએ. નોંધણી માટે વ્યક્તિગત માહિતી તેમજ શૈક્ષણિક અને નાણાકીય દસ્તાવેજો જરૂરી હોઈ શકે છે.

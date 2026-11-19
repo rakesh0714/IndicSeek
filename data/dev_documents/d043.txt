@@ -1,0 +1,11 @@
+Title: Financial Need Assessment
+Category: financial_assistance
+
+English:
+Financial assistance programs may assess family income, number of dependents, existing educational expenses, and other indicators of financial need.
+
+Hindi:
+वित्तीय सहायता कार्यक्रम पारिवारिक आय, आश्रितों की संख्या, मौजूदा शैक्षणिक खर्च और आर्थिक आवश्यकता के अन्य संकेतकों का मूल्यांकन कर सकते हैं।
+
+Gujarati:
+નાણાકીય સહાય કાર્યક્રમો પરિવારની આવક, આશ્રિતોની સંખ્યા, વર્તમાન શૈક્ષણિક ખર્ચ અને નાણાકીય જરૂરિયાતના અન્ય સૂચકોનું મૂલ્યાંકન કરી શકે છે.

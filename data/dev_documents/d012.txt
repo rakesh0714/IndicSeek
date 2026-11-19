@@ -1,0 +1,11 @@
+Title: Scholarship Category Requirement
+Category: scholarship
+
+English:
+Certain scholarships are designed for students belonging to specified categories. Applicants may need to submit an appropriate category or community certificate during verification.
+
+Hindi:
+कुछ छात्रवृत्तियां विशेष श्रेणी के विद्यार्थियों के लिए बनाई जाती हैं। सत्यापन के दौरान आवेदकों को उपयुक्त श्रेणी या समुदाय प्रमाण पत्र देना पड़ सकता है।
+
+Gujarati:
+કેટલીક શિષ્યવૃત્તિ ચોક્કસ વર્ગના વિદ્યાર્થીઓ માટે બનાવવામાં આવે છે. ચકાસણી દરમિયાન અરજદારે યોગ્ય વર્ગ અથવા સમુદાય પ્રમાણપત્ર આપવું પડી શકે છે.

@@ -1,0 +1,11 @@
+Title: Financial Aid Application
+Category: financial_assistance
+
+English:
+Students requesting financial aid should complete the prescribed application and provide accurate information about their financial circumstances.
+
+Hindi:
+वित्तीय सहायता मांगने वाले विद्यार्थियों को निर्धारित आवेदन पूरा करना चाहिए और अपनी आर्थिक स्थिति के बारे में सही जानकारी देनी चाहिए।
+
+Gujarati:
+નાણાકીય સહાય માંગતા વિદ્યાર્થીઓએ નિર્ધારિત અરજી પૂર્ણ કરવી અને તેમની નાણાકીય પરિસ્થિતિ વિશે સાચી માહિતી આપવી જોઈએ.

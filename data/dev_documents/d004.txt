@@ -1,0 +1,11 @@
+Title: Income Based Scholarship
+Category: scholarship
+
+English:
+Some scholarship schemes provide financial support to students from economically weaker families. Family income must normally remain within the income limit defined by the scheme.
+
+Hindi:
+कुछ छात्रवृत्ति योजनाएं आर्थिक रूप से कमजोर परिवारों के विद्यार्थियों को वित्तीय सहायता प्रदान करती हैं। पारिवारिक आय योजना द्वारा निर्धारित सीमा के भीतर होनी चाहिए।
+
+Gujarati:
+કેટલીક શિષ્યવૃત્તિ યોજનાઓ આર્થિક રીતે નબળા પરિવારોના વિદ્યાર્થીઓને નાણાકીય સહાય આપે છે. પરિવારની આવક યોજનામાં નક્કી કરેલી મર્યાદામાં હોવી જરૂરી છે.

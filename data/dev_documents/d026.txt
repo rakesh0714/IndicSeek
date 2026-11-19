@@ -1,0 +1,11 @@
+Title: Hostel Application
+Category: hostel
+
+English:
+Students seeking hostel accommodation should complete the hostel application form and submit required admission and identification documents before the deadline.
+
+Hindi:
+छात्रावास आवास चाहने वाले विद्यार्थियों को छात्रावास आवेदन पत्र भरना चाहिए और अंतिम तिथि से पहले आवश्यक प्रवेश तथा पहचान दस्तावेज जमा करने चाहिए।
+
+Gujarati:
+હોસ્ટેલ રહેઠાણ મેળવવા ઇચ્છતા વિદ્યાર્થીઓએ હોસ્ટેલ અરજી ફોર્મ ભરવું અને અંતિમ તારીખ પહેલાં જરૂરી પ્રવેશ તથા ઓળખ દસ્તાવેજો જમા કરવા જોઈએ.

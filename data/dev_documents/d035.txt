@@ -1,0 +1,11 @@
+Title: Examination Form
+Category: examination
+
+English:
+Students should verify course selections and personal information before submitting the examination form. Errors should be reported according to institutional procedures.
+
+Hindi:
+परीक्षा फॉर्म जमा करने से पहले विद्यार्थियों को विषय चयन और व्यक्तिगत जानकारी जांचनी चाहिए। त्रुटियों की सूचना संस्थान की प्रक्रिया के अनुसार देनी चाहिए।
+
+Gujarati:
+પરીક્ષા ફોર્મ જમા કરતા પહેલાં વિદ્યાર્થીઓએ વિષય પસંદગી અને વ્યક્તિગત માહિતી તપાસવી જોઈએ. ભૂલોની જાણ સંસ્થાની પ્રક્રિયા મુજબ કરવી જોઈએ.

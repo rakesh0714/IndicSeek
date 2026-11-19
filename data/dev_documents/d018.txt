@@ -1,0 +1,11 @@
+Title: Government Scheme Income Limit
+Category: government_scheme
+
+English:
+Several government student schemes use annual family income as an eligibility criterion. Applicants may need to provide an income certificate to demonstrate that they satisfy the prescribed limit.
+
+Hindi:
+कई सरकारी विद्यार्थी योजनाओं में वार्षिक पारिवारिक आय पात्रता का मानदंड होती है। निर्धारित सीमा पूरी करने के लिए आय प्रमाण पत्र देना पड़ सकता है।
+
+Gujarati:
+ઘણી સરકારી વિદ્યાર્થી યોજનાઓમાં વાર્ષિક પરિવારની આવક પાત્રતાનો માપદંડ હોય છે. નક્કી કરેલી મર્યાદા દર્શાવવા માટે આવક પ્રમાણપત્ર આપવું પડી શકે છે.

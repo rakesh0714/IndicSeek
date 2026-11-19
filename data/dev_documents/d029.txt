@@ -1,0 +1,11 @@
+Title: Hostel Fee
+Category: hostel
+
+English:
+Students allotted hostel accommodation must pay the applicable hostel fee within the specified period. The fee may cover room, maintenance, and approved hostel services.
+
+Hindi:
+छात्रावास आवंटित होने पर विद्यार्थियों को निर्धारित अवधि में लागू छात्रावास शुल्क का भुगतान करना होता है। शुल्क में कमरा, रखरखाव और अन्य सेवाएं शामिल हो सकती हैं।
+
+Gujarati:
+હોસ્ટેલ ફાળવવામાં આવ્યા પછી વિદ્યાર્થીઓએ નિર્ધારિત સમયગાળામાં લાગુ હોસ્ટેલ ફી ચૂકવવી પડે છે. ફીમાં રૂમ, જાળવણી અને અન્ય સેવાઓનો સમાવેશ થઈ શકે છે.

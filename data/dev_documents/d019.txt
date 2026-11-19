@@ -1,0 +1,11 @@
+Title: Government Scheme Registration
+Category: government_scheme
+
+English:
+Students may need to register through an official government portal to access education schemes. Registration usually involves personal and academic information.
+
+Hindi:
+शिक्षा योजनाओं का लाभ लेने के लिए विद्यार्थियों को आधिकारिक सरकारी पोर्टल पर पंजीकरण करना पड़ सकता है। पंजीकरण में व्यक्तिगत और शैक्षणिक जानकारी मांगी जाती है।
+
+Gujarati:
+શિક્ષણ યોજનાઓનો લાભ લેવા માટે વિદ્યાર્થીઓએ સત્તાવાર સરકારી પોર્ટલ પર નોંધણી કરવી પડી શકે છે. નોંધણીમાં વ્યક્તિગત અને શૈક્ષણિક માહિતી માંગવામાં આવે છે.

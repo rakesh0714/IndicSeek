@@ -1,0 +1,11 @@
+Title: Emergency Student Aid
+Category: financial_assistance
+
+English:
+Emergency financial assistance may help students facing unexpected educational expenses. Applicants may need to explain the circumstances and provide supporting evidence.
+
+Hindi:
+आपातकालीन वित्तीय सहायता अचानक आने वाले शैक्षणिक खर्चों का सामना कर रहे विद्यार्थियों की मदद कर सकती है। आवेदकों को परिस्थिति समझाकर प्रमाण देना पड़ सकता है।
+
+Gujarati:
+કટોકટી નાણાકીય સહાય અચાનક આવેલા શૈક્ષણિક ખર્ચનો સામનો કરતા વિદ્યાર્થીઓને મદદ કરી શકે છે. અરજદારે પરિસ્થિતિ સમજાવી અને પુરાવા આપવા પડી શકે છે.

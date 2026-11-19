@@ -1,0 +1,11 @@
+Title: Admission Eligibility
+Category: admission
+
+English:
+Admission eligibility depends on the academic qualification, entrance requirements, program rules, and other conditions specified by the institution.
+
+Hindi:
+प्रवेश पात्रता शैक्षणिक योग्यता, प्रवेश आवश्यकताओं, कार्यक्रम के नियमों और संस्थान द्वारा निर्धारित अन्य शर्तों पर निर्भर करती है।
+
+Gujarati:
+પ્રવેશ પાત્રતા શૈક્ષણિક લાયકાત, પ્રવેશની આવશ્યકતાઓ, કાર્યક્રમના નિયમો અને સંસ્થા દ્વારા નક્કી કરેલી અન્ય શરતો પર આધારિત છે.

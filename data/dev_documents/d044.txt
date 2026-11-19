@@ -1,0 +1,11 @@
+Title: Financial Aid Documents
+Category: financial_assistance
+
+English:
+Applications for financial aid may require income proof, fee records, bank information, and identification documents.
+
+Hindi:
+वित्तीय सहायता के आवेदन में आय प्रमाण, शुल्क रिकॉर्ड, बैंक जानकारी और पहचान दस्तावेज आवश्यक हो सकते हैं।
+
+Gujarati:
+નાણાકીય સહાયની અરજી માટે આવકનો પુરાવો, ફી રેકોર્ડ, બેંક માહિતી અને ઓળખ દસ્તાવેજો જરૂરી હોઈ શકે છે.

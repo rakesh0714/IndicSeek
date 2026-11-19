@@ -1,0 +1,11 @@
+Title: Hostel Eligibility
+Category: hostel
+
+English:
+Hostel accommodation is generally available to eligible enrolled students. Institutions may give preference based on distance from home, academic status, or other hostel rules.
+
+Hindi:
+छात्रावास की सुविधा सामान्यतः पात्र नामांकित विद्यार्थियों के लिए उपलब्ध होती है। संस्थान घर से दूरी, शैक्षणिक स्थिति या अन्य नियमों के आधार पर प्राथमिकता दे सकते हैं।
+
+Gujarati:
+હોસ્ટેલની સુવિધા સામાન્ય રીતે પાત્ર નોંધાયેલા વિદ્યાર્થીઓ માટે ઉપલબ્ધ હોય છે. સંસ્થાઓ ઘરથી અંતર, શૈક્ષણિક સ્થિતિ અથવા અન્ય નિયમોના આધારે પ્રાથમિકતા આપી શકે છે.

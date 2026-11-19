@@ -1,0 +1,254 @@
+[
+  {
+    "query_id": "q001",
+    "language": "en",
+    "query": "What are the eligibility requirements for a student scholarship?",
+    "relevant_docs": [
+      "d001",
+      "d004",
+      "d008"
+    ]
+  },
+  {
+    "query_id": "q002",
+    "language": "en",
+    "query": "What documents are required for a scholarship application?",
+    "relevant_docs": [
+      "d002",
+      "d005",
+      "d010"
+    ]
+  },
+  {
+    "query_id": "q003",
+    "language": "en",
+    "query": "How are merit scholarships awarded?",
+    "relevant_docs": [
+      "d003"
+    ]
+  },
+  {
+    "query_id": "q004",
+    "language": "en",
+    "query": "How can students renew a scholarship?",
+    "relevant_docs": [
+      "d006"
+    ]
+  },
+  {
+    "query_id": "q005",
+    "language": "en",
+    "query": "Why is an income certificate needed for scholarships?",
+    "relevant_docs": [
+      "d004",
+      "d011"
+    ]
+  },
+  {
+    "query_id": "q006",
+    "language": "hi",
+    "query": "छात्रवृत्ति के लिए कौन से दस्तावेज आवश्यक हैं?",
+    "relevant_docs": [
+      "d002",
+      "d010"
+    ]
+  },
+  {
+    "query_id": "q007",
+    "language": "hi",
+    "query": "मेधावी छात्रवृत्ति किस आधार पर दी जाती है?",
+    "relevant_docs": [
+      "d003"
+    ]
+  },
+  {
+    "query_id": "q008",
+    "language": "hi",
+    "query": "छात्रवृत्ति की अंतिम तिथि क्यों महत्वपूर्ण है?",
+    "relevant_docs": [
+      "d007"
+    ]
+  },
+  {
+    "query_id": "q009",
+    "language": "hi",
+    "query": "छात्रवृत्ति आवेदन की स्थिति कैसे देख सकते हैं?",
+    "relevant_docs": [
+      "d015"
+    ]
+  },
+  {
+    "query_id": "q010",
+    "language": "hi",
+    "query": "आय प्रमाण पत्र छात्रवृत्ति में क्यों आवश्यक है?",
+    "relevant_docs": [
+      "d004",
+      "d011"
+    ]
+  },
+  {
+    "query_id": "q011",
+    "language": "gu",
+    "query": "શિષ્યવૃત્તિ માટે કયા દસ્તાવેજો જરૂરી છે?",
+    "relevant_docs": [
+      "d002",
+      "d005"
+    ]
+  },
+  {
+    "query_id": "q012",
+    "language": "gu",
+    "query": "મેરિટ શિષ્યવૃત્તિ કયા આધારે આપવામાં આવે છે?",
+    "relevant_docs": [
+      "d003"
+    ]
+  },
+  {
+    "query_id": "q013",
+    "language": "gu",
+    "query": "આર્થિક રીતે નબળા વિદ્યાર્થીઓ માટે શિષ્યવૃત્તિ કેવી રીતે મળે છે?",
+    "relevant_docs": [
+      "d004",
+      "d016"
+    ]
+  },
+  {
+    "query_id": "q014",
+    "language": "gu",
+    "query": "શિષ્યવૃત્તિ અરજીની સ્થિતિ કેવી રીતે તપાસી શકાય?",
+    "relevant_docs": [
+      "d015"
+    ]
+  },
+  {
+    "query_id": "q015",
+    "language": "gu",
+    "query": "શિષ્યવૃત્તિ માટે આવક પ્રમાણપત્ર શા માટે જરૂરી છે?",
+    "relevant_docs": [
+      "d011"
+    ]
+  },
+  {
+    "query_id": "q016",
+    "language": "en",
+    "query": "How can students register for a government education scheme?",
+    "relevant_docs": [
+      "d019"
+    ]
+  },
+  {
+    "query_id": "q017",
+    "language": "hi",
+    "query": "सरकारी शिक्षा योजना के लिए आय सीमा कैसे तय होती है?",
+    "relevant_docs": [
+      "d018"
+    ]
+  },
+  {
+    "query_id": "q018",
+    "language": "gu",
+    "query": "સરકારી શિક્ષણ યોજનામાં કયા દસ્તાવેજો જરૂરી છે?",
+    "relevant_docs": [
+      "d020"
+    ]
+  },
+  {
+    "query_id": "q019",
+    "language": "en",
+    "query": "What expenses can government education schemes support?",
+    "relevant_docs": [
+      "d022"
+    ]
+  },
+  {
+    "query_id": "q020",
+    "language": "hi",
+    "query": "सरकारी विद्यार्थी योजना का नवीनीकरण कैसे किया जाता है?",
+    "relevant_docs": [
+      "d021"
+    ]
+  },
+  {
+    "query_id": "q021",
+    "language": "gu",
+    "query": "હોસ્ટેલ માટે વિદ્યાર્થીઓ કેવી રીતે અરજી કરી શકે?",
+    "relevant_docs": [
+      "d026"
+    ]
+  },
+  {
+    "query_id": "q022",
+    "language": "hi",
+    "query": "छात्रावास आवेदन के लिए कौन से दस्तावेज चाहिए?",
+    "relevant_docs": [
+      "d028"
+    ]
+  },
+  {
+    "query_id": "q023",
+    "language": "en",
+    "query": "How is hostel accommodation allocated?",
+    "relevant_docs": [
+      "d030"
+    ]
+  },
+  {
+    "query_id": "q024",
+    "language": "en",
+    "query": "What is required for university examination registration?",
+    "relevant_docs": [
+      "d033",
+      "d034"
+    ]
+  },
+  {
+    "query_id": "q025",
+    "language": "hi",
+    "query": "परीक्षा पंजीकरण की अंतिम तिथि कब महत्वपूर्ण होती है?",
+    "relevant_docs": [
+      "d036"
+    ]
+  },
+  {
+    "query_id": "q026",
+    "language": "gu",
+    "query": "પરીક્ષા ફોર્મમાં વિષયની માહિતી કેમ તપાસવી જોઈએ?",
+    "relevant_docs": [
+      "d035",
+      "d038"
+    ]
+  },
+  {
+    "query_id": "q027",
+    "language": "en",
+    "query": "What types of financial assistance can students receive?",
+    "relevant_docs": [
+      "d040",
+      "d022"
+    ]
+  },
+  {
+    "query_id": "q028",
+    "language": "hi",
+    "query": "वित्तीय सहायता के लिए कौन से दस्तावेज आवश्यक हो सकते हैं?",
+    "relevant_docs": [
+      "d044"
+    ]
+  },
+  {
+    "query_id": "q029",
+    "language": "gu",
+    "query": "યુનિવર્સિટી પ્રવેશ માટે કયા દસ્તાવેજો જરૂરી છે?",
+    "relevant_docs": [
+      "d046"
+    ]
+  },
+  {
+    "query_id": "q030",
+    "language": "en",
+    "query": "What determines university admission eligibility?",
+    "relevant_docs": [
+      "d047"
+    ]
+  }
+]

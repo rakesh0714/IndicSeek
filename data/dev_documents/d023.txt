@@ -1,0 +1,11 @@
+Title: Government Scheme Category
+Category: government_scheme
+
+English:
+Some government education programs target students from particular social or economic categories. Supporting certificates may be required during application verification.
+
+Hindi:
+कुछ सरकारी शिक्षा कार्यक्रम विशेष सामाजिक या आर्थिक श्रेणी के विद्यार्थियों के लिए होते हैं। आवेदन सत्यापन के दौरान संबंधित प्रमाण पत्र आवश्यक हो सकते हैं।
+
+Gujarati:
+કેટલાક સરકારી શિક્ષણ કાર્યક્રમો ચોક્કસ સામાજિક અથવા આર્થિક વર્ગના વિદ્યાર્થીઓ માટે હોય છે. અરજીની ચકાસણી દરમિયાન સંબંધિત પ્રમાણપત્રો જરૂરી હોઈ શકે છે.

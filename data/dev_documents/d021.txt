@@ -1,0 +1,11 @@
+Title: Government Scheme Renewal
+Category: government_scheme
+
+English:
+Some student welfare schemes require annual renewal. Students may need to confirm continued eligibility and submit updated documents.
+
+Hindi:
+कुछ विद्यार्थी कल्याण योजनाओं में हर वर्ष नवीनीकरण आवश्यक होता है। विद्यार्थियों को निरंतर पात्रता की पुष्टि और अद्यतन दस्तावेज जमा करने पड़ सकते हैं।
+
+Gujarati:
+કેટલીક વિદ્યાર્થી કલ્યાણ યોજનાઓમાં દર વર્ષે નવીકરણ જરૂરી હોય છે. વિદ્યાર્થીઓએ સતત પાત્રતાની પુષ્ટિ કરી અને અપડેટ દસ્તાવેજો જમા કરવા પડી શકે છે.

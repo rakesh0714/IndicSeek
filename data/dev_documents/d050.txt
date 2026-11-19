@@ -1,0 +1,11 @@
+Title: Admission Deadline
+Category: admission
+
+English:
+Students offered admission should complete the required admission formalities before the announced deadline. Failure to complete the process may result in loss of the offered seat.
+
+Hindi:
+प्रवेश की पेशकश पाने वाले विद्यार्थियों को घोषित अंतिम तिथि से पहले आवश्यक प्रवेश औपचारिकताएं पूरी करनी चाहिए। प्रक्रिया पूरी न करने पर सीट खो सकती है।
+
+Gujarati:
+પ્રવેશની ઓફર મેળવનારા વિદ્યાર્થીઓએ જાહેર કરેલી અંતિમ તારીખ પહેલાં જરૂરી પ્રવેશ પ્રક્રિયા પૂર્ણ કરવી જોઈએ. પ્રક્રિયા પૂર્ણ ન કરવાથી મળેલી સીટ ગુમાવી શકાય છે.

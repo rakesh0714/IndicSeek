@@ -1,0 +1,452 @@
+[
+    {
+        "query_number": 1,
+        "query": "What are the eligibility requirements for a student scholarship?",
+        "language": "English",
+        "answer": "academic performance, family income, category, and the specific conditions of the scholarship scheme.",
+        "sources": [
+            "d001",
+            "d017",
+            "d012"
+        ],
+        "answer_relevance": 0.7746944427490234,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.8263737559318542,
+        "overall_score": 0.8670227328936259
+    },
+    {
+        "query_number": 2,
+        "query": "What documents are required for a scholarship application?",
+        "language": "English",
+        "answer": "Identity proof, academic records, bank account details, and an income certificate",
+        "sources": [
+            "d002",
+            "d015",
+            "d010"
+        ],
+        "answer_relevance": 0.5082315802574158,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.7185088396072388,
+        "overall_score": 0.7422468066215515
+    },
+    {
+        "query_number": 3,
+        "query": "How are merit scholarships awarded?",
+        "language": "English",
+        "answer": "Scholarship selection can consider academic merit, financial need, social category, and other eligibility conditions.",
+        "sources": [
+            "d003",
+            "d012",
+            "d008"
+        ],
+        "answer_relevance": 0.7187214493751526,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.9281886219978333,
+        "overall_score": 0.8823033571243286
+    },
+    {
+        "query_number": 4,
+        "query": "How can students renew a scholarship?",
+        "language": "English",
+        "answer": "Students can use the scholarship portal to check the status of their application.",
+        "sources": [
+            "d006",
+            "d015",
+            "d010"
+        ],
+        "answer_relevance": 0.659308135509491,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.9321324825286865,
+        "overall_score": 0.8638135393460592
+    },
+    {
+        "query_number": 5,
+        "query": "Why is an income certificate needed for scholarships?",
+        "language": "English",
+        "answer": "to verify financial eligibility",
+        "sources": [
+            "d011",
+            "d012",
+            "d018"
+        ],
+        "answer_relevance": 0.517571747303009,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.7088700532913208,
+        "overall_score": 0.7421472668647766
+    },
+    {
+        "query_number": 6,
+        "query": "छात्रवृत्ति के लिए कौन से दस्तावेज आवश्यक हैं?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d002",
+            "d007",
+            "d010"
+        ],
+        "answer_relevance": 0.18030615150928497,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.06010205050309499
+    },
+    {
+        "query_number": 7,
+        "query": "मेधावी छात्रवृत्ति किस आधार पर दी जाती है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d003",
+            "d041",
+            "d004"
+        ],
+        "answer_relevance": 0.19573244452476501,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.06524414817492168
+    },
+    {
+        "query_number": 8,
+        "query": "छात्रवृत्ति की अंतिम तिथि क्यों महत्वपूर्ण है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d007",
+            "d024",
+            "d036"
+        ],
+        "answer_relevance": 0.09978660941123962,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.03326220313707987
+    },
+    {
+        "query_number": 9,
+        "query": "छात्रवृत्ति आवेदन की स्थिति कैसे देख सकते हैं?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d015",
+            "d002",
+            "d009"
+        ],
+        "answer_relevance": 0.15481436252593994,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.051604787508646645
+    },
+    {
+        "query_number": 10,
+        "query": "आय प्रमाण पत्र छात्रवृत्ति में क्यों आवश्यक है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d011",
+            "d018",
+            "d002"
+        ],
+        "answer_relevance": 0.11597035825252533,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.03865678608417511
+    },
+    {
+        "query_number": 11,
+        "query": "શિષ્યવૃત્તિ માટે કયા દસ્તાવેજો જરૂરી છે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d049",
+            "d046",
+            "d021"
+        ],
+        "answer_relevance": 0.2078150510787964,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.06927168369293213
+    },
+    {
+        "query_number": 12,
+        "query": "મેરિટ શિષ્યવૃત્તિ કયા આધારે આપવામાં આવે છે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d041",
+            "d048",
+            "d018"
+        ],
+        "answer_relevance": 0.18346525728702545,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.06115508576234182
+    },
+    {
+        "query_number": 13,
+        "query": "આર્થિક રીતે નબળા વિદ્યાર્થીઓ માટે શિષ્યવૃત્તિ કેવી રીતે મળે છે?",
+        "language": "Gujarati",
+        "answer": ".",
+        "sources": [
+            "d004",
+            "d041",
+            "d040"
+        ],
+        "answer_relevance": 0.21782876551151276,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0732264518737793,
+        "overall_score": 0.09701840579509735
+    },
+    {
+        "query_number": 14,
+        "query": "શિષ્યવૃત્તિ અરજીની સ્થિતિ કેવી રીતે તપાસી શકાય?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d015",
+            "d007",
+            "d045"
+        ],
+        "answer_relevance": 0.16890062391757965,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.05630020797252655
+    },
+    {
+        "query_number": 15,
+        "query": "શિષ્યવૃત્તિ માટે આવક પ્રમાણપત્ર શા માટે જરૂરી છે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d011",
+            "d018",
+            "d020"
+        ],
+        "answer_relevance": 0.14886318147182465,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.049621060490608215
+    },
+    {
+        "query_number": 16,
+        "query": "How can students register for a government education scheme?",
+        "language": "English",
+        "answer": "Through an official government portal.",
+        "sources": [
+            "d019",
+            "d025",
+            "d016"
+        ],
+        "answer_relevance": 0.4996458888053894,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.6359822154045105,
+        "overall_score": 0.7118760347366333
+    },
+    {
+        "query_number": 17,
+        "query": "सरकारी शिक्षा योजना के लिए आय सीमा कैसे तय होती है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d018",
+            "d016",
+            "d004"
+        ],
+        "answer_relevance": 0.08299034088850021,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.027663446962833405
+    },
+    {
+        "query_number": 18,
+        "query": "સરકારી શિક્ષણ યોજનામાં કયા દસ્તાવેજો જરૂરી છે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d019",
+            "d016",
+            "d023"
+        ],
+        "answer_relevance": 0.15217994153499603,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.05072664717833201
+    },
+    {
+        "query_number": 19,
+        "query": "What expenses can government education schemes support?",
+        "language": "English",
+        "answer": "Tuition fees.",
+        "sources": [
+            "d022",
+            "d016",
+            "d017"
+        ],
+        "answer_relevance": 0.6035345792770386,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.6737985610961914,
+        "overall_score": 0.7591110467910767
+    },
+    {
+        "query_number": 20,
+        "query": "सरकारी विद्यार्थी योजना का नवीनीकरण कैसे किया जाता है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d021",
+            "d006",
+            "d019"
+        ],
+        "answer_relevance": 0.11532550305128098,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.038441834350426994
+    },
+    {
+        "query_number": 21,
+        "query": "હોસ્ટેલ માટે વિદ્યાર્થીઓ કેવી રીતે અરજી કરી શકે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d028",
+            "d026",
+            "d027"
+        ],
+        "answer_relevance": 0.14537905156612396,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.048459683855374656
+    },
+    {
+        "query_number": 22,
+        "query": "छात्रावास आवेदन के लिए कौन से दस्तावेज चाहिए?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d026",
+            "d007",
+            "d002"
+        ],
+        "answer_relevance": 0.14536133408546448,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.04845377802848816
+    },
+    {
+        "query_number": 23,
+        "query": "How is hostel accommodation allocated?",
+        "language": "English",
+        "answer": "according to institutional rules and available capacity",
+        "sources": [
+            "d027",
+            "d030",
+            "d029"
+        ],
+        "answer_relevance": 0.43867093324661255,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.5823115110397339,
+        "overall_score": 0.6736608147621155
+    },
+    {
+        "query_number": 24,
+        "query": "What is required for university examination registration?",
+        "language": "English",
+        "answer": "information and payment of the applicable examination fee",
+        "sources": [
+            "d033",
+            "d034",
+            "d039"
+        ],
+        "answer_relevance": 0.6703596711158752,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.8229721188545227,
+        "overall_score": 0.8311105966567993
+    },
+    {
+        "query_number": 25,
+        "query": "परीक्षा पंजीकरण की अंतिम तिथि कब महत्वपूर्ण होती है?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d036",
+            "d033",
+            "d034"
+        ],
+        "answer_relevance": 0.07628998160362244,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.025429993867874146
+    },
+    {
+        "query_number": 26,
+        "query": "પરીક્ષા ફોર્મમાં વિષયની માહિતી કેમ તપાસવી જોઈએ?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d035",
+            "d038",
+            "d037"
+        ],
+        "answer_relevance": 0.18531738221645355,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.06177246073881785
+    },
+    {
+        "query_number": 27,
+        "query": "What types of financial assistance can students receive?",
+        "language": "English",
+        "answer": "Scholarships, fee concessions.",
+        "sources": [
+            "d040",
+            "d043",
+            "d041"
+        ],
+        "answer_relevance": 0.704904317855835,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.819125771522522,
+        "overall_score": 0.841343363126119
+    },
+    {
+        "query_number": 28,
+        "query": "वित्तीय सहायता के लिए कौन से दस्तावेज आवश्यक हो सकते हैं?",
+        "language": "Hindi",
+        "answer": "",
+        "sources": [
+            "d044",
+            "d041",
+            "d045"
+        ],
+        "answer_relevance": 0.13953107595443726,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.04651035865147909
+    },
+    {
+        "query_number": 29,
+        "query": "યુનિવર્સિટી પ્રવેશ માટે કયા દસ્તાવેજો જરૂરી છે?",
+        "language": "Gujarati",
+        "answer": "",
+        "sources": [
+            "d046",
+            "d010",
+            "d049"
+        ],
+        "answer_relevance": 0.16262583434581757,
+        "evidence_coverage": 0.0,
+        "groundedness": 0.0,
+        "overall_score": 0.05420861144860586
+    },
+    {
+        "query_number": 30,
+        "query": "What determines university admission eligibility?",
+        "language": "English",
+        "answer": "the academic qualification, entrance requirements, program rules, and other conditions specified by the institution",
+        "sources": [
+            "d046",
+            "d047",
+            "d033"
+        ],
+        "answer_relevance": 0.773516058921814,
+        "evidence_coverage": 1.0,
+        "groundedness": 0.8844175934791565,
+        "overall_score": 0.8859778841336569
+    }
+]

@@ -1,0 +1,11 @@
+Title: Scholarship Fee Support
+Category: scholarship
+
+English:
+Some scholarship programs help students meet educational expenses such as tuition fees, examination charges, or other approved academic costs.
+
+Hindi:
+कुछ छात्रवृत्ति कार्यक्रम विद्यार्थियों के ट्यूशन शुल्क, परीक्षा शुल्क या अन्य स्वीकृत शैक्षणिक खर्चों में सहायता करते हैं।
+
+Gujarati:
+કેટલીક શિષ્યવૃત્તિ યોજનાઓ વિદ્યાર્થીઓને ટ્યુશન ફી, પરીક્ષા ફી અથવા અન્ય મંજૂર શૈક્ષણિક ખર્ચમાં સહાય કરે છે.

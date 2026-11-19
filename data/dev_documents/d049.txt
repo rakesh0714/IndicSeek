@@ -1,0 +1,11 @@
+Title: Admission Verification
+Category: admission
+
+English:
+During admission verification, institutions may compare submitted documents with original certificates. Students should bring valid original documents when requested.
+
+Hindi:
+प्रवेश सत्यापन के दौरान संस्थान जमा किए गए दस्तावेजों की मूल प्रमाणपत्रों से तुलना कर सकते हैं। मांग किए जाने पर विद्यार्थियों को वैध मूल दस्तावेज लाने चाहिए।
+
+Gujarati:
+પ્રવેશ ચકાસણી દરમિયાન સંસ્થાઓ જમા કરેલા દસ્તાવેજોની મૂળ પ્રમાણપત્રો સાથે સરખામણી કરી શકે છે. માંગ કરવામાં આવે ત્યારે વિદ્યાર્થીઓએ માન્ય મૂળ દસ્તાવેજો લાવવા જોઈએ.

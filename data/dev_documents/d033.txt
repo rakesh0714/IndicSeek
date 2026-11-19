@@ -1,0 +1,11 @@
+Title: Examination Registration
+Category: examination
+
+English:
+University examination registration normally requires student enrollment information and payment of the applicable examination fee before the deadline.
+
+Hindi:
+विश्वविद्यालय परीक्षा पंजीकरण के लिए सामान्यतः विद्यार्थी का नामांकन विवरण और लागू परीक्षा शुल्क का भुगतान अंतिम तिथि से पहले आवश्यक होता है।
+
+Gujarati:
+યુનિવર્સિટી પરીક્ષા નોંધણી માટે સામાન્ય રીતે વિદ્યાર્થીની નોંધણી માહિતી અને લાગુ પરીક્ષા ફીની ચુકવણી અંતિમ તારીખ પહેલાં જરૂરી હોય છે.

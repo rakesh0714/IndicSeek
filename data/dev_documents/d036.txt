@@ -1,0 +1,11 @@
+Title: Examination Registration Deadline
+Category: examination
+
+English:
+Examination registration must be completed before the published deadline. Students should avoid waiting until the final day because technical or payment problems may occur.
+
+Hindi:
+परीक्षा पंजीकरण प्रकाशित अंतिम तिथि से पहले पूरा करना चाहिए। विद्यार्थियों को अंतिम दिन तक प्रतीक्षा नहीं करनी चाहिए क्योंकि तकनीकी या भुगतान संबंधी समस्या हो सकती है।
+
+Gujarati:
+પરીક્ષા નોંધણી જાહેર કરેલી અંતિમ તારીખ પહેલાં પૂર્ણ કરવી જોઈએ. વિદ્યાર્થીઓએ છેલ્લી તારીખ સુધી રાહ ન જોવી જોઈએ કારણ કે તકનીકી અથવા ચુકવણીની સમસ્યા થઈ શકે છે.

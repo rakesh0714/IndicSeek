@@ -1,0 +1,11 @@
+Title: Examination Fee
+Category: examination
+
+English:
+Students must pay the prescribed examination fee during examination registration. The payment receipt may be required as evidence of successful registration.
+
+Hindi:
+परीक्षा पंजीकरण के दौरान विद्यार्थियों को निर्धारित परीक्षा शुल्क जमा करना होता है। सफल पंजीकरण के प्रमाण के रूप में भुगतान रसीद आवश्यक हो सकती है।
+
+Gujarati:
+પરીક્ષા નોંધણી દરમિયાન વિદ્યાર્થીઓએ નિર્ધારિત પરીક્ષા ફી ચૂકવવી પડે છે. સફળ નોંધણીના પુરાવા તરીકે ચુકવણીની રસીદ જરૂરી હોઈ શકે છે.

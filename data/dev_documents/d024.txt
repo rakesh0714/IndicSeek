@@ -1,0 +1,11 @@
+Title: Government Scheme Deadline
+Category: government_scheme
+
+English:
+Students should submit government education scheme applications before the announced deadline. Portal submission after the closing date may not be accepted.
+
+Hindi:
+विद्यार्थियों को सरकारी शिक्षा योजना के आवेदन घोषित अंतिम तिथि से पहले जमा करने चाहिए। अंतिम तिथि के बाद पोर्टल पर आवेदन स्वीकार नहीं हो सकता है।
+
+Gujarati:
+વિદ્યાર્થીઓએ સરકારી શિક્ષણ યોજનાની અરજી જાહેર કરેલી અંતિમ તારીખ પહેલાં જમા કરવી જોઈએ. અંતિમ તારીખ પછી પોર્ટલ પર અરજી સ્વીકારવામાં ન આવે.

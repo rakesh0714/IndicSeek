@@ -1,0 +1,11 @@
+Title: Government Scheme Application Tracking
+Category: government_scheme
+
+English:
+Applicants can track the progress of a government education assistance application through the official portal. Status information may show verification or approval progress.
+
+Hindi:
+आवेदक आधिकारिक पोर्टल के माध्यम से सरकारी शिक्षा सहायता आवेदन की प्रगति देख सकते हैं। स्थिति में सत्यापन या स्वीकृति की जानकारी दिखाई जा सकती है।
+
+Gujarati:
+અરજદારો સત્તાવાર પોર્ટલ દ્વારા સરકારી શિક્ષણ સહાયની અરજીની પ્રગતિ જોઈ શકે છે. સ્થિતિમાં ચકાસણી અથવા મંજૂરીની માહિતી દેખાઈ શકે છે.

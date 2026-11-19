@@ -1,0 +1,11 @@
+Title: Scholarship Application Documents
+Category: scholarship
+
+English:
+A scholarship application may require identity proof, academic records, bank account details, and an income certificate. Applicants should check the scheme-specific document list before submission.
+
+Hindi:
+छात्रवृत्ति आवेदन में पहचान प्रमाण, शैक्षणिक रिकॉर्ड, बैंक खाते का विवरण और आय प्रमाण पत्र की आवश्यकता हो सकती है। आवेदन से पहले योजना की दस्तावेज सूची जांचनी चाहिए।
+
+Gujarati:
+શિષ્યવૃત્તિ અરજી માટે ઓળખનો પુરાવો, શૈક્ષણિક રેકોર્ડ, બેંક ખાતાની વિગતો અને આવક પ્રમાણપત્ર જરૂરી હોઈ શકે છે. અરજી કરતા પહેલાં યોજનાની દસ્તાવેજોની યાદી તપાસવી જોઈએ.

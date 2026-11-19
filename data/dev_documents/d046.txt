@@ -1,0 +1,11 @@
+Title: University Admission Documents
+Category: admission
+
+English:
+University admission may require academic certificates, identity proof, photographs, and other documents specified by the institution.
+
+Hindi:
+विश्वविद्यालय प्रवेश के लिए शैक्षणिक प्रमाण पत्र, पहचान प्रमाण, फोटो और संस्थान द्वारा बताए गए अन्य दस्तावेज आवश्यक हो सकते हैं।
+
+Gujarati:
+યુનિવર્સિટી પ્રવેશ માટે શૈક્ષણિક પ્રમાણપત્રો, ઓળખનો પુરાવો, ફોટોગ્રાફ અને સંસ્થા દ્વારા જણાવેલા અન્ય દસ્તાવેજો જરૂરી હોઈ શકે છે.

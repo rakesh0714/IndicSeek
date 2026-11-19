@@ -1,0 +1,11 @@
+Title: Scholarship Deadline
+Category: scholarship
+
+English:
+Scholarship applications must be submitted before the announced deadline. Late applications may not be considered, so students should complete document verification early.
+
+Hindi:
+छात्रवृत्ति आवेदन घोषित अंतिम तिथि से पहले जमा किया जाना चाहिए। देर से प्राप्त आवेदन स्वीकार नहीं किए जा सकते, इसलिए दस्तावेजों की जांच पहले कर लेनी चाहिए।
+
+Gujarati:
+શિષ્યવૃત્તિ અરજી જાહેર કરેલી અંતિમ તારીખ પહેલાં જમા કરવી જોઈએ. મોડેથી આવેલી અરજીઓ સ્વીકારવામાં ન આવે તેથી દસ્તાવેજોની તપાસ વહેલી કરવી જોઈએ.

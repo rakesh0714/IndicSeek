@@ -1,0 +1,11 @@
+Title: Admission Fee
+Category: admission
+
+English:
+Selected students must complete admission fee payment within the specified period to confirm their seat. Payment instructions are normally provided by the institution.
+
+Hindi:
+चयनित विद्यार्थियों को अपनी सीट सुनिश्चित करने के लिए निर्धारित समय में प्रवेश शुल्क जमा करना होता है। भुगतान के निर्देश संस्थान द्वारा दिए जाते हैं।
+
+Gujarati:
+પસંદ થયેલા વિદ્યાર્થીઓએ પોતાની સીટની પુષ્ટિ કરવા માટે નિર્ધારિત સમયગાળામાં પ્રવેશ ફી ચૂકવવી પડે છે. ચુકવણીની સૂચનાઓ સંસ્થા દ્વારા આપવામાં આવે છે.

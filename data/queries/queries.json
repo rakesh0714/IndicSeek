@@ -1,0 +1,27 @@
+[
+  {
+    "query_id": "q001",
+    "query": "What are the eligibility requirements for a student scholarship?",
+    "relevant_docs": ["doc001", "doc003", "doc009", "doc010"]
+  },
+  {
+    "query_id": "q002",
+    "query": "What documents are required for a scholarship application?",
+    "relevant_docs": ["doc002", "doc005", "doc010"]
+  },
+  {
+    "query_id": "q003",
+    "query": "How are merit scholarships awarded?",
+    "relevant_docs": ["doc004", "doc007"]
+  },
+  {
+    "query_id": "q004",
+    "query": "How can students apply for hostel accommodation?",
+    "relevant_docs": ["doc006"]
+  },
+  {
+    "query_id": "q005",
+    "query": "What is required for university examination registration?",
+    "relevant_docs": ["doc008"]
+  }
+]

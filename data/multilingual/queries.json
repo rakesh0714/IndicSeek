@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mq001",
+    "query": "આર્થિક રીતે નબળા વિદ્યાર્થીઓને શિષ્યવૃત્તિ દ્વારા શું મળી શકે છે?",
+    "relevant_docs": ["m001"]
+  },
+  {
+    "id": "mq002",
+    "query": "मेधावी छात्रवृत्ति किस आधार पर दी जाती है?",
+    "relevant_docs": ["m002"]
+  },
+  {
+    "id": "mq003",
+    "query": "What documents are needed for a scholarship application?",
+    "relevant_docs": ["m003"]
+  },
+  {
+    "id": "mq004",
+    "query": "હોસ્ટેલ માટે વિદ્યાર્થીઓ કેવી રીતે અરજી કરી શકે?",
+    "relevant_docs": ["m004"]
+  },
+  {
+    "id": "mq005",
+    "query": "विश्वविद्यालय परीक्षा पंजीकरण के लिए क्या आवश्यक है?",
+    "relevant_docs": ["m005"]
+  }
+]

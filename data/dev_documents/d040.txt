@@ -1,0 +1,11 @@
+Title: Student Financial Assistance
+Category: financial_assistance
+
+English:
+Educational institutions may provide financial assistance through scholarships, fee concessions, emergency aid, or other student support programs.
+
+Hindi:
+शैक्षणिक संस्थान छात्रवृत्ति, शुल्क में छूट, आपातकालीन सहायता या अन्य विद्यार्थी सहायता कार्यक्रमों के माध्यम से वित्तीय सहायता दे सकते हैं।
+
+Gujarati:
+શૈક્ષણિક સંસ્થાઓ શિષ્યવૃત્તિ, ફીમાં છૂટ, કટોકટી સહાય અથવા અન્ય વિદ્યાર્થી સહાય કાર્યક્રમો દ્વારા નાણાકીય સહાય આપી શકે છે.

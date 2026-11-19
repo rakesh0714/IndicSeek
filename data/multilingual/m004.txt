@@ -1,0 +1,8 @@
+English:
+Students can apply for hostel accommodation by submitting the hostel application form and required admission documents before the deadline.
+
+Hindi:
+छात्र समय सीमा से पहले छात्रावास आवेदन पत्र और आवश्यक प्रवेश दस्तावेज जमा करके छात्रावास के लिए आवेदन कर सकते हैं।
+
+Gujarati:
+વિદ્યાર્થીઓ સમયમર્યાદા પહેલાં હોસ્ટેલ અરજી ફોર્મ અને જરૂરી પ્રવેશ દસ્તાવેજો સબમિટ કરીને હોસ્ટેલ માટે અરજી કરી શકે છે।

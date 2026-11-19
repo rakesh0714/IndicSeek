@@ -1,0 +1,11 @@
+Title: Hostel Rules
+Category: hostel
+
+English:
+Hostel residents must follow institutional accommodation rules covering attendance, visitors, room use, cleanliness, and conduct.
+
+Hindi:
+छात्रावास में रहने वाले विद्यार्थियों को उपस्थिति, आगंतुक, कमरे के उपयोग, स्वच्छता और आचरण से संबंधित संस्थागत नियमों का पालन करना होता है।
+
+Gujarati:
+હોસ્ટેલમાં રહેતા વિદ્યાર્થીઓએ હાજરી, મુલાકાતીઓ, રૂમનો ઉપયોગ, સ્વચ્છતા અને વર્તન સંબંધિત સંસ્થાના નિયમોનું પાલન કરવું પડે છે.

@@ -1,0 +1,8 @@
+English:
+Scholarship applications may require identity proof, academic records, bank details and income certificates.
+
+Hindi:
+छात्रवृत्ति आवेदन के लिए पहचान प्रमाण, शैक्षणिक रिकॉर्ड, बैंक विवरण और आय प्रमाण पत्र की आवश्यकता हो सकती है।
+
+Gujarati:
+શિષ્યવૃત્તિ અરજી માટે ઓળખનો પુરાવો, શૈક્ષણિક રેકોર્ડ, બેંક વિગતો અને આવક પ્રમાણપત્રની જરૂર પડી શકે છે।

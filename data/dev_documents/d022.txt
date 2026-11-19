@@ -1,0 +1,11 @@
+Title: Government Education Benefit
+Category: government_scheme
+
+English:
+Education schemes may support tuition fees, study materials, accommodation, or other approved educational expenses depending on the specific program.
+
+Hindi:
+शिक्षा योजनाएं कार्यक्रम के अनुसार ट्यूशन शुल्क, अध्ययन सामग्री, आवास या अन्य स्वीकृत शैक्षणिक खर्चों में सहायता कर सकती हैं।
+
+Gujarati:
+શિક્ષણ યોજનાઓ ચોક્કસ કાર્યક્રમ અનુસાર ટ્યુશન ફી, અભ્યાસ સામગ્રી, રહેઠાણ અથવા અન્ય મંજૂર શૈક્ષણિક ખર્ચમાં સહાય કરી શકે છે.
